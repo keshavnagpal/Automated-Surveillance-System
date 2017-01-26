@@ -12,6 +12,5 @@ Presentation of the project
 https://prezi.com/sq7flsm7faoy/automated-surveillance-system
 
 Special Thanks to Daniel Shiffman
-https://github.com/shiffman
 https://www.youtube.com/user/shiffman
   
