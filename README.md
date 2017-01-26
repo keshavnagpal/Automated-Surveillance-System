@@ -1,9 +1,13 @@
-# Motion-Detection
+# Automated Surveillance System
 
-In this project motion detection is done using live video processing.
+In this project surveillance system is automated using motion detection technique in live video processing.
 Any ordinary camera can be used to capture live video stream and then that stream is processed using frame difference method to detect motion.
-Made using Java with Processing environment
-This can also be integrated with surveillance systems to automatically trigger alarms whenever motion is detected in a live video stream from the security cameras.
 
-Code Coming Soon....
+Alarm is triggered when motion is detected in the live video stream from the security camera.
+It also save pictures of the crime scene in every 2 seconds after the motion is detected. Time interval can be changed according to the requirements. An interval of 2 secs is recommended for most of the modern systems
+
+Made using Java with Processing environment
+
+Presentation of the project
+https://prezi.com/sq7flsm7faoy/automated-surveillance-system
   
