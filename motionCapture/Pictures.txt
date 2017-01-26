@@ -1,0 +1,2 @@
+Here Pictures from the crime scene will be stored after the detection of motion.
+Hence saving memory and and I/O operations.
